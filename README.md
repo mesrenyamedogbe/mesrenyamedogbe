@@ -17,7 +17,9 @@
 
 ### Want to connect?
 [Twitter](https://twitter.com/mesrenyamedogbe)
+
 [LinkedIn](https://www.linkedin.com/in/abigail-mesrenyame-dogbe-83a1a5161/)
+
 [Blog](https://mesrenyamedogbe.hashnode.dev/)
 
 > You can do anything you put your mind to!
