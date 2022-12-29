@@ -25,8 +25,10 @@
 
 ### Mesrenyame Dogbe's GitHub Stats
 <img 
-   src="https://github-readme-stats.vercel.app/api?username=mesrenyamedogbe&show_icons=true&theme=tokyonight" 
+   src="https://github-readme-stats.vercel.app/api?username=mesrenyamedogbe&show_icons=true&theme=tokyonight"
 />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesrenyamedogbe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Favourite Quote
 > You can do anything you put your mind to!
