@@ -22,6 +22,12 @@
 
 [Blog](https://mesrenyamedogbe.hashnode.dev/)
 
+
+### Mesrenyame Dogbe's GitHub Stats
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=mesrenyamedogbe&show_icons=true&theme=tokyonight" 
+/>
+
 ### Favourite Quote
 > You can do anything you put your mind to!
 
