@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-
-
 - 🔭 I host Everything Open Source Twitter Spaces where I invite professionals to chat about different Open Source topics.
 - 👯 I’m looking to collaborate on Open Source
 - 💬 Ask me about Tech Community Building
@@ -17,6 +14,8 @@
 
 ### Want to connect?
 [Twitter](https://twitter.com/mesrenyamedogbe)
+
+[YouTube](https://www.youtube.com/@mesrenyamedogbe)
 
 [LinkedIn](https://www.linkedin.com/in/abigail-mesrenyame-dogbe-83a1a5161/)
 
