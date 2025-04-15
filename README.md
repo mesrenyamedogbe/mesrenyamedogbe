@@ -70,10 +70,92 @@
 - [Getting Started with Open Source as a Student](https://x.com/djangonautspace/status/1816089177295053018)
   > PyClub AAMUSTED || Category: Talk || Date: April || Mode: Virtual
 
+- [Remarkable Woman Series](https://www.linkedin.com/posts/zonta-international_remarkablewomen-activity-7189651541543337984-gnXy?utm_source=share&utm_medium=member_desktop&rcm=ACoAACamLG4BlcfRMYXn8wgEJmj167nRDXumFgg)
+  > [Zonta International](https://www.zonta.org/) || Category: Interview || Date: April || Mode: Virtual
+
+- [International Women's Day](https://www.linkedin.com/posts/ai-ghana_empowerher-aighana-empowerher-activity-7179103157937987585-_MXU?utm_source=share&utm_medium=member_desktop&rcm=ACoAACamLG4BlcfRMYXn8wgEJmj167nRDXumFgg)
+  > [AI Ghana](https://aighana.org/) || Category: Interview || Date: March || Mode: Virtual
+
+- Global Perspectives Dialogue - IGSA
+  > International Graduate Students Association || Category: Panel || Date: 29th February || Mode: In-Person || Location: University of Cincinnati, Cincinnati, Ohio - USA.
+
+- Digital Skills for All: Iteratively Developing a Playbook for Digital Inclusion Workshops
+  > Research Symposium || Category: Panel || Date: 24th February || Mode: In-Person || Location: University of Louisville, Louisville, Kentucky - USA.
+
+- Getting Started with Open Source
+  > [Django Girls Ho](https://djangogirls.org/en/ho4/) || Category: Lightning Talk || Date: 24th February || Mode: Virtual
+
+- [Open-Source Opportunities – Getting involved in open source and project work](https://www.linkedin.com/posts/techstripped-africa_technology-careerdevelopment-opensource-activity-7155951803421876225-i6gT?utm_source=share&utm_medium=member_desktop&rcm=ACoAACamLG4BlcfRMYXn8wgEJmj167nRDXumFgg)
+  > [Techstripped Africa](https://techstripped.com/freshman) || Category: Talk || Date: 27th January || Mode: Virtual
+
+
+</details>
+
+
+<details open>
+ <summary><h3> 2023 :sparkles: </h3></summary>
+
+- [Starting my career, the Open Source way](https://www.youtube.com/watch?v=WYhqC2QLyYw)
+  > [PyLadiesCon 2023](https://events.hubilo.com/pyladiescon2023/register) || Category: Keynote || Date: 2nd December || Mode: Virtual
+
+- [The role of Empathy in Open Source Community Leadership in building stronger communities](https://verso.w3.uvm.edu/iop-workshop-panels/#openness-expertise)
+  > [Interdisciplinary Open Practices Workshop (IOP Workshop)](https://verso.w3.uvm.edu/interdisciplinary-open-practices-workshop/) || Category: Panel || Date: 27th and 28th October || Mode: In-Person || Location: University of Vermont, Burlington, Vermont - USA.
+
+- [Finding Purpose in Open Source through Community Building](https://2023.djangocon.us/news/abigail-dogbe/)
+  > [DjangoCon US 2023](https://2023.djangocon.us/) || Category: Keynote || Date: 16th - 20th October || Mode: In-Person || Location: Durham, North Carolina - USA.
+
+- Open Source in Africa and why you should be a part of it
+  > [Community Over Code 2023 - Apache Software Foundation](https://communityovercode.org/past-sessions/community-over-code-na-2023/) || Category: Keynote || Date: 7th - 10th October || Mode: In-Person || Location: Halifax, Nova Scotia, Canada.
+  > > Building a sustainable Leadership pipeline in Open Source Communities - Retaining and Fostering Leadership Talent || Category: Talk - Sustainability Track
+
+- [Embrace Equity, PyLadies Ghana International Women's Day Event](https://blog.pythonghana.org/pyladies-ghana-iwd2023)
+  > [PyLadies Ghana](ghana.pyladies.org) || Category: Panel || Date: 11th March || Mode: Virtual
+
+</details>
+
+
+<details open>
+ <summary><h3> 2022 :sparkles: </h3></summary>
+
+- [Ubuntu Summit](https://events.canonical.com/event/2/)
+  > Category: Session Moderator || Date: 7th - 9th November || Mode: In-Person || Location: Prague, Czech Republic.
+
+- The Future of Open Source Community Building
+  > [Mozilla Festival](https://www.mozillafestival.org/en/) || Category: Panel || Date: 7th - 10th March || Mode: Virtual
+
 </details>
 
 
 
+<details open>
+ <summary><h3> 2021 :sparkles: </h3></summary>
+
+- Python: The African Community and Leadership
+  > [PyCode 2021](https://pycode-conference.org/) || Category: Keynote || Date: 2nd - 3rd December || Mode: Virtual
+
+- [Python in a world of Pan-Africanism](https://ep2021.europython.eu/talks/keynote-2-python-in-a-world-of-pan-africanism/)
+  > [EuroPython 2021](https://ep2021.europython.eu/) || Category: Keynote || Date: 26th July - 1st August || Mode: Virtual
+
+
+</details>
+
+
+<details open>
+ <summary><h3> 2019 :sparkles: </h3></summary>
+
+- [Building a Django Community in Africa](https://www.youtube.com/watch?v=r3TORk2D3Hs)
+  > [DjangoCon Europe](https://2019.djangocon.eu/)Category: Talk || Date: 10th - 14th April || Mode: In-Person || Location: Copenhagen, Denmark.
+
+</details>
+
+
+<details open>
+ <summary><h3> 2018 :sparkles: </h3></summary>
+
+- [Django Girls Akosombo](https://djangogirls.org/en/akosombo/)
+  > Category: Lightning Talk || Date: 30th November - 1st December || Mode: In-Person || Location: Akosombo, Ghana.
+
+</details>
 
 
 ### Want to connect?
