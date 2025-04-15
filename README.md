@@ -48,6 +48,27 @@
 - [What is a PyCon and why should you attend](https://x.com/PythonHo/status/1825321786688630836)
   > [PyHo 2024](https://2024.pythonho.com/) || Category: Panel || Date: 31st August || Mode: Virtual
 
+- All about Black Python Devs
+  > [PyOhio](https://www.pyohio.org/2024/) || Category: Lightning Talk || Date: 27th - 28th July  || Mode: In-Person || Location: Cleveland, Ohio - USA.
+
+- [Unlocking your potential with Django - My story](https://x.com/djangonautspace/status/1816089177295053018)
+  > [Djangonaut Space](https://djangonaut.space/) || Category: Talk || Date: 24th July || Mode: Virtual
+
+- [Empowering Inclusive Open Source Governance: Designing an Online Tool](https://www.linkedin.com/posts/uc-school-of-information-technology_solvingproblemswithtechnology-activity-7216454067303141376-LFrl?utm_source=share&utm_medium=member_desktop&rcm=ACoAACamLG4BlcfRMYXn8wgEJmj167nRDXumFgg) 
+  > Masters Thesis Defense || Category: Thesis Defense || Date: 10th July  || Mode: In-Person || Location: University of Cincinnati, Cincinnati, Ohio - USA.
+
+- [Diversity and Inclusion Panel](https://us.pycon.org/2024/about/keynote-speakers/index.html#dei-panel)
+  > [PyCon US 2024](https://us.pycon.org/2024/) || Category: Panel Discussion || Date: 6th - 8th May || Mode: In-Person || Location: Pittsburgh, Pensylvania, Ohio - USA.
+  >> Lightning Talks Moderator 
+
+- [Scaling Up: Open Sourcing a Digital Skills Training Toolkit for Wider Impact](https://www.canva.com/design/DAF8s2fWE8w/nm8N8ZdmlO2BTigSeZhpmg/edit?utm_content=DAF8s2fWE8w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  > IT Expo || Category: Poster Presentation || Date: 9th April || Mode: In-Person || Location: University of Cincinnati, Cincinnati, Ohio - USA.
+
+- Empowering Inclusive Open Source Governance: Designing an Online Tool
+  > IT Expo || Category: Talk || Date: 9th April || Mode: In-Person || Location: University of Cincinnati, Cincinnati, Ohio - USA.
+
+- [Getting Started with Open Source as a Student](https://x.com/djangonautspace/status/1816089177295053018)
+  > PyClub AAMUSTED || Category: Talk || Date: April || Mode: Virtual
 
 </details>
 
