@@ -158,6 +158,19 @@
 </details>
 
 
+### Media Coverage
+
+- [Inaugural Winners of the Outstanding PyLady Award](https://pyladies.com/blog/Inaugural-Winners-of-the-Outstanding-PyLady-Award/outstanding-pylady-winners/)
+- [Black Python Devs](https://blackpythondevs.com/2024-05-25-abigail-mesrenyame-dogbe-wins-inaugural-outstanding-pylady-award/)
+- [Remarkable Women Powerful Story - Zonta International](https://www.zonta.org/Web/Web/News_Events/Articles/RemarkableWomenPowerfulStoryAbigailDogbe.aspx)
+- [Celebrating Women in STEM all over the world - 2024 IWD](https://www.youtube.com/watch?v=B6wRDaPfhuE&t=657s)
+- [DjangoCon US 2023 Keynote Announcement](https://2023.djangocon.us/news/abigail-dogbe/)
+- [Cheerleading Girls in STEM — A Mesrenyame Legacy](https://joo-mansa.medium.com/cheerleading-girls-in-stem-a-mesrenyame-legacy-aede236c578f)
+- [Python Software Foundation Community Service Award](https://pyfound.blogspot.com/2020/07/abigail-dogbe-awarded-psf-community.html)
+- [PyDev of the Week](https://www.blog.pythonlibrary.org/2020/03/30/pydev-of-the-week-abigail-mesrenyame-dogbe/)
+
+
+
 ### Want to connect?
 [Twitter](https://twitter.com/mesrenyamedogbe)
 
