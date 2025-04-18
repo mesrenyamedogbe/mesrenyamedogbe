@@ -29,7 +29,7 @@
   > IT Expo || Category: Poster Presentation || Date: 8th April || Mode: In-Person || Location: University of Cincinnati, Cincinnati, Ohio - USA.
 
 - [Facilitating Open Source Project Management: A Collaborative Ecosystem of Resources](https://cech.uc.edu/soitexpo.html)
-  > IT Expo || Category: Talk || Date: 7th April || Mode: In-Person || Location: University of Cincinnati, Cincinnati, Ohio - USA. 
+  > IT Expo || Category: Talk || Date: 7th April || Mode: Virtual 
 
 - [Build, Lead and Inspire Pythonista Women](https://www.linkedin.com/posts/pythonghana_pyladiesghana-iwd2025-activity-7311706901623263232-oAel?utm_source=share&utm_medium=member_desktop&rcm=ACoAACamLG4BlcfRMYXn8wgEJmj167nRDXumFgg)
   > PyLadies Ghana IWD Celebration || Category: Panel Discussion || Date: 29th March || Mode: Virtual (X-Spaces)
