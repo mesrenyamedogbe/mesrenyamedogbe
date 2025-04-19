@@ -79,7 +79,7 @@
 - Empowering Inclusive Open Source Governance: Designing an Online Tool
   > IT Expo || Category: Talk || Date: 9th April || Mode: In-Person || Location: University of Cincinnati, Cincinnati, Ohio - USA.
 
-- [Getting Started with Open Source as a Student](https://x.com/djangonautspace/status/1816089177295053018)
+- [Getting Started with Open Source as a Student](https://www.linkedin.com/posts/ezra-yendau-601ba3246_pythonghana-opensource-pyclubs-activity-7181031892509466625-91dk?utm_source=share&utm_medium=member_desktop&rcm=ACoAACamLG4BlcfRMYXn8wgEJmj167nRDXumFgg)
   > PyClub AAMUSTED || Category: Talk || Date: April || Mode: Virtual
 
 - [Remarkable Woman Series](https://www.linkedin.com/posts/zonta-international_remarkablewomen-activity-7189651541543337984-gnXy?utm_source=share&utm_medium=member_desktop&rcm=ACoAACamLG4BlcfRMYXn8wgEJmj167nRDXumFgg)
