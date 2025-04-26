@@ -7,6 +7,7 @@
 
 ### Media Coverage
 
+- [Ghana's 2025 female Tech Trailblazers](https://genderanddigital.org/ghana-female-tech-trailblazers/)
 - [Inaugural Winners of the Outstanding PyLady Award](https://pyladies.com/blog/Inaugural-Winners-of-the-Outstanding-PyLady-Award/outstanding-pylady-winners/)
 - [Black Python Devs](https://blackpythondevs.com/2024-05-25-abigail-mesrenyame-dogbe-wins-inaugural-outstanding-pylady-award/)
 - [Remarkable Women Powerful Story - Zonta International](https://www.zonta.org/Web/Web/News_Events/Articles/RemarkableWomenPowerfulStoryAbigailDogbe.aspx)
