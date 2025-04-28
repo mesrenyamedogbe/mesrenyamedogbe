@@ -22,6 +22,9 @@
 
 <details open>
  <summary><h3> 2025 :sparkles: </h3></summary>
+
+- Begin with the end in mind
+  > IT Seminar || Category: Alumni Panel || Date: 21st April  || Mode: In-Person || Location: University of Cincinnati, Cincinnati, Ohio - USA.
    
 - [Open-Source Game Development: A Systematic Literature Review](https://cech.uc.edu/soitexpo.html)
   > IT Expo || Category: [Poster Presentation](https://www.canva.com/design/DAGet2XA7kM/RrgXojOrQjXozzN4inMdlw/edit?utm_content=DAGet2XA7kM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) || Date: 8th April || Mode: In-Person || Location: University of Cincinnati, Cincinnati, Ohio - USA.
