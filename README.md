@@ -23,6 +23,9 @@
 <details open>
  <summary><h3> 2025 :sparkles: </h3></summary>
 
+- [Open Sourcing a Digital Skills Training Toolkit : A Civic Tech Lab Initiative​]
+  > Tech Expo || Category: Poster Presentation || Date: 29th April || Mode: In-Person || Location: Digital Futures, University of Cincinnati, Cincinnati, Ohio - USA.
+
 - Begin with the end in mind
   > IT Seminar || Category: Alumni Panel || Date: 21st April  || Mode: In-Person || Location: University of Cincinnati, Cincinnati, Ohio - USA.
    
