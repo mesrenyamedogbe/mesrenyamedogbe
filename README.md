@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I host Everything Open Source Twitter Spaces where I invite professionals to chat about different Open Source topics.
-- 👯 I’m looking to collaborate on Open Source
-- 💬 Ask me about Tech Community Building
-- ⚡ Fun fact: My name is Golden
+- 👯 I’m looking to collaborate with Open Source communities and projects on community/programs management.
+- 💬 Ask me about Tech Community Building and Research in Open Source.
+- ⚡ Fun fact: My name is Golden.
 
 ### Media Coverage
 
