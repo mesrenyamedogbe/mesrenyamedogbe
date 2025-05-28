@@ -20,7 +20,7 @@
 
 ### Speaking Engagements
 
-<details open>
+<details>
  <summary><h3> 2025 :sparkles: </h3></summary>
 
 - [Open Sourcing a Digital Skills Training Toolkit : A Civic Tech Lab Initiative​]
