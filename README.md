@@ -5,7 +5,7 @@
 - 💬 Ask me about Tech Community Building and Research in Open Source.
 - ⚡ Fun fact: My name is Golden.
 
-### Media Coverage
+### Media Coverage/Features
 
 - [Ghana's 2025 female Tech Trailblazers](https://genderanddigital.org/ghana-female-tech-trailblazers/)
 - [Inaugural Winners of the Outstanding PyLady Award](https://pyladies.com/blog/Inaugural-Winners-of-the-Outstanding-PyLady-Award/outstanding-pylady-winners/)
@@ -13,6 +13,7 @@
 - [Remarkable Women Powerful Story - Zonta International](https://www.zonta.org/Web/Web/News_Events/Articles/RemarkableWomenPowerfulStoryAbigailDogbe.aspx)
 - [Celebrating Women in STEM all over the world - 2024 IWD](https://www.youtube.com/watch?v=B6wRDaPfhuE&t=657s)
 - [DjangoCon US 2023 Keynote Announcement](https://2023.djangocon.us/news/abigail-dogbe/)
+- [PyLadies Mentorship Groups Helps Women Python Developers - Business Insider](https://www.businessinsider.com/pyladies-python-programming-language-software-developers-women-2021-3)
 - [Cheerleading Girls in STEM — A Mesrenyame Legacy](https://joo-mansa.medium.com/cheerleading-girls-in-stem-a-mesrenyame-legacy-aede236c578f)
 - [Python Software Foundation Community Service Award](https://pyfound.blogspot.com/2020/07/abigail-dogbe-awarded-psf-community.html)
 - [PyDev of the Week](https://www.blog.pythonlibrary.org/2020/03/30/pydev-of-the-week-abigail-mesrenyame-dogbe/)
