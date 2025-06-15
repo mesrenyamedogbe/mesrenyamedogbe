@@ -21,6 +21,7 @@
 
 
 ### Awards and Recognitions
+- [2025 STEMInfluencer](https://www.instagram.com/p/DKcL2iUO-xC/?img_index=3&igsh=MWt3bnliZHlycmltZg==)
 - [Outstanding Graduate Student of the Year](https://genderanddigital.org/ghana-female-tech-trailblazers/)
 - [Outstanding PyLady of the Year](https://kit.pyladies.com/en/latest/global/award.html)
 - [2023 Zonta International Women in STEM Scholarship recipient](https://www.zonta.org/images/docs/myzonta/tools/awardscholarshipfellowshiptools/womeninstem/2023%20WISTEM%20Scholars%20Bios_V5.pdf)
