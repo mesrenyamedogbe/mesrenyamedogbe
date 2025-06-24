@@ -7,6 +7,7 @@
 
 ### Media Coverage/Features
 
+- [STEMfluencer 2025](https://www.stemfluencers.com/)
 - [Women Who Inspire](https://www.linkedin.com/pulse/abigail-mesrenyame-dogbe-women-who-inspire-odamea-amoako-ufpde/?trackingId=rbb06qa%2BRn%2BXyQYJx9IawQ%3D%3D)
 - [Ghana's 2025 female Tech Trailblazers](https://genderanddigital.org/ghana-female-tech-trailblazers/)
 - [Inaugural Winners of the Outstanding PyLady Award](https://pyladies.com/blog/Inaugural-Winners-of-the-Outstanding-PyLady-Award/outstanding-pylady-winners/)
