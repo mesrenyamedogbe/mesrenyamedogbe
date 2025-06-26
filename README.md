@@ -40,6 +40,9 @@
 - [Open Source Engagement in Africa](https://www.un.org/digital-emerging-technologies/content/open-source-week-2025)
   > United Nations Open Source Weeek || Category: Side Event || Date: 20th June || Mode: In-Person || Location: PwC (Organized by the UN and hosted by PwC)
 
+- [First Time Speakers Workshop]
+  > EuroPython 2025 || Category: Workshop || Date: 4th June || Mode: Virtual
+
 - [Open Sourcing a Digital Skills Training Toolkit : A Civic Tech Lab Initiative​](https://research.uc.edu/researchweek)
   > Tech Expo || Category: Poster Presentation || Date: 29th April || Mode: In-Person || Location: Digital Futures, University of Cincinnati, Cincinnati, Ohio - USA.
 
