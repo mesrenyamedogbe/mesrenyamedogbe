@@ -17,7 +17,6 @@
 - [PyLadies Mentorship Groups Helps Women Python Developers - Business Insider](https://www.businessinsider.com/pyladies-python-programming-language-software-developers-women-2021-3)
 - [Cheerleading Girls in STEM — A Mesrenyame Legacy](https://joo-mansa.medium.com/cheerleading-girls-in-stem-a-mesrenyame-legacy-aede236c578f)
 - [Python Software Foundation Community Service Award](https://pyfound.blogspot.com/2020/07/abigail-dogbe-awarded-psf-community.html)
-- [PyDev of the Week](https://www.blog.pythonlibrary.org/2020/03/30/pydev-of-the-week-abigail-mesrenyame-dogbe/)
 
 
 ### Awards and Recognitions
@@ -29,7 +28,7 @@
 - [Google Open Source Peer Bonus Award Recipient](https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html)
 - [Python Software Foundation Community Service Award Recipient](https://www.python.org/community/awards/psf-awards/)
 - [Fellow at The Python Software Foundation](https://pyfound.blogspot.com/2019/11/python-software-foundation-fellow.html)
-
+- [PyDev of the Week](https://www.blog.pythonlibrary.org/2020/03/30/pydev-of-the-week-abigail-mesrenyame-dogbe/)
 
 
 ### Speaking Engagements
