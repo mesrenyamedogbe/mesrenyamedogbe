@@ -37,7 +37,7 @@
  <summary><h3> 2025 :sparkles: </h3></summary>
 
 - [Open Source Engagement in Africa](https://www.un.org/digital-emerging-technologies/content/open-source-week-2025)
-  > United Nations Open Source Weeek || Category: Side Event || Date: 20th June || Mode: In-Person || Location: PwC (Organized by the UN and hosted by PwC)
+  > [United Nations Open Source Weeek](https://www.un.org/digital-emerging-technologies/content/open-source-week-2025) || Category: Side Event || Date: 20th June || Mode: In-Person || Location: PwC (Organized by the UN and hosted by PwC)
 
 - [First Time Speakers Workshop](https://youtu.be/a2ZajKY6bm0?si=0gaoRN9bjuZkwYeA)
   > EuroPython 2025 || Category: Workshop || Date: 4th June || Mode: Virtual
