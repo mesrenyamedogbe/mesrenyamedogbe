@@ -27,7 +27,7 @@
 - [2023 Zonta International Women in STEM Scholarship recipient](https://www.zonta.org/images/docs/myzonta/tools/awardscholarshipfellowshiptools/womeninstem/2023%20WISTEM%20Scholars%20Bios_V5.pdf)
 - [Individual Member at the Django Software Foundation](https://www.djangoproject.com/foundation/individual-members/)
 - [Google Open Source Peer Bonus Award Recipient](https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html)
-- [Python Software Foundation Community Service Award Recipient](https://www.python.org/community/awards/psf-awards/)
+- [Python Software Foundation Community Service Award Recipient](https://www.python.org/community/awards/psf-awards/#march-2020)
 - [Fellow at The Python Software Foundation](https://pyfound.blogspot.com/2019/11/python-software-foundation-fellow.html)
 - [PyDev of the Week](https://www.blog.pythonlibrary.org/2020/03/30/pydev-of-the-week-abigail-mesrenyame-dogbe/)
 
