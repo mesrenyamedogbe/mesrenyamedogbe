@@ -64,7 +64,7 @@
 </details>
 
 
-<details open>
+<details>
  <summary><h3> 2024 :sparkles: </h3></summary>
 
 - [Empowering Change: Building and Amplifying the PyLadies Community as Black Women in Tech](https://conference.pyladies.com/)
@@ -131,7 +131,7 @@
 </details>
 
 
-<details open>
+<details>
  <summary><h3> 2023 :sparkles: </h3></summary>
 
 - [Starting my career, the Open Source way](https://www.youtube.com/watch?v=WYhqC2QLyYw)
@@ -153,7 +153,7 @@
 </details>
 
 
-<details open>
+<details>
  <summary><h3> 2022 :sparkles: </h3></summary>
 
 - [Ubuntu Summit](https://events.canonical.com/event/2/)
@@ -166,7 +166,7 @@
 
 
 
-<details open>
+<details>
  <summary><h3> 2021 :sparkles: </h3></summary>
 
 - Python: The African Community and Leadership
@@ -179,7 +179,7 @@
 </details>
 
 
-<details open>
+<details>
  <summary><h3> 2019 :sparkles: </h3></summary>
 
 - [Building a Django Community in Africa](https://www.youtube.com/watch?v=r3TORk2D3Hs)
@@ -188,7 +188,7 @@
 </details>
 
 
-<details open>
+<details>
  <summary><h3> 2018 :sparkles: </h3></summary>
 
 - [Django Girls Akosombo](https://djangogirls.org/en/akosombo/)
