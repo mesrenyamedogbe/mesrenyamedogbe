@@ -37,6 +37,9 @@
 <details open>
  <summary><h3> 2025 :sparkles: </h3></summary>
 
+- [Begin with the end in mind: Why your community work matters](https://www.pyohio.org/2025/program/speakers/keynote-speakers/)
+  > [PyOhio 2025](https://www.pyohio.org/2025/) || Category: Keynote || Date: 26th July || Mode: In-Person || Location: Cleveland, Ohio - USA.
+
 - [Open Source Engagement in Africa](https://www.un.org/digital-emerging-technologies/content/open-source-week-2025)
   > [United Nations Open Source Weeek](https://www.un.org/digital-emerging-technologies/content/open-source-week-2025) || Category: Side Event || Date: 20th June || Mode: In-Person || Location: New York City, New York - USA.
 
