@@ -21,10 +21,10 @@
 
 ### Awards and Recognitions
 - [2025 STEMInfluencer](https://www.instagram.com/p/DKcL2iUO-xC/?img_index=3&igsh=MWt3bnliZHlycmltZg==)
-- [Outstanding Graduate Student of the Year](https://genderanddigital.org/ghana-female-tech-trailblazers/)
+- [Outstanding Graduate Student of the Year](https://www.thestemmys.com/2024honorees)
 - [Outstanding PyLady of the Year](https://kit.pyladies.com/en/latest/global/award.html)
 - Best Poster Presentation (Runner-Up) - IT Expo, University of Cincinnati.
-- [2023 Zonta International Women in STEM Scholarship recipient](https://www.zonta.org/images/docs/myzonta/tools/awardscholarshipfellowshiptools/womeninstem/2023%20WISTEM%20Scholars%20Bios_V5.pdf)
+- [2023 Zonta International Women in STEM Scholarship recipient](https://www.zonta.org/Web/Web/News_Events/Articles/Learn_more_about_the_2023_Women_in_STEM_scholars.aspx#:~:text=We%20are%20proud%20to%20share,23%20January%202024)
 - [Individual Member at the Django Software Foundation](https://www.djangoproject.com/foundation/individual-members/)
 - [Google Open Source Peer Bonus Award Recipient](https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html)
 - [Python Software Foundation Community Service Award Recipient](https://www.python.org/community/awards/psf-awards/#march-2020)
