@@ -9,6 +9,7 @@
 - [How to make your GitHub profile standout](https://www.udemy.com/join/passwordless-auth/?next=%2Fcourse%2Fmake-your-github-profile-stand-out%2Flearn%2Flecture%2F29205792&action=login&mode#overview)
 - [Microsoft Learn](https://learn.microsoft.com/en-us/)
 - [GitHub Student Developer Pack](https://education.github.com/pack)
+- [How to contribute to Open Source](https://www.youtube.com/watch?v=Qa0ZgJJjJVI)
 
 
 ### Awards and Recognitions
@@ -24,9 +25,6 @@
 
 - [Open Sourcing a Digital Skills Training Toolkit : A Civic Tech Lab Initiative​](https://research.uc.edu/researchweek)
   > Tech Expo || Category: Poster Presentation || Date: 29th April || Mode: In-Person || Location: Digital Futures, University of Cincinnati, Cincinnati, Ohio - USA.
-
-- Begin with the end in mind
-  > IT Seminar || Category: Alumni Panel || Date: 21st April  || Mode: In-Person || Location: University of Cincinnati, Cincinnati, Ohio - USA.
    
 - [Open-Source Game Development: A Systematic Literature Review](https://cech.uc.edu/soitexpo.html)
   > IT Expo || Category: [Poster Presentation](https://www.canva.com/design/DAGet2XA7kM/RrgXojOrQjXozzN4inMdlw/edit?utm_content=DAGet2XA7kM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) || Date: 8th April || Mode: In-Person || Location: University of Cincinnati, Cincinnati, Ohio - USA.
