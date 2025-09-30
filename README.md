@@ -13,7 +13,6 @@
 ### Media Coverage/Features
 - [Announcing the 2025 PSF Board Election Results!](https://pyfound.blogspot.com/2025/09/announcing-2025-psf-board-election.html)
 - [Women Who Inspire](https://www.linkedin.com/pulse/abigail-mesrenyame-dogbe-women-who-inspire-odamea-amoako-ufpde/?trackingId=rbb06qa%2BRn%2BXyQYJx9IawQ%3D%3D)
-- [Ghana's 2025 female Tech Trailblazers](https://genderanddigital.org/ghana-female-tech-trailblazers/)
 - [Inaugural Winners of the Outstanding PyLady Award](https://pyladies.com/blog/Inaugural-Winners-of-the-Outstanding-PyLady-Award/outstanding-pylady-winners/)
 - [Black Python Devs](https://blackpythondevs.com/2024-05-25-abigail-mesrenyame-dogbe-wins-inaugural-outstanding-pylady-award/)
 - [Remarkable Women Powerful Story - Zonta International](https://www.zonta.org/Web/Web/News_Events/Articles/RemarkableWomenPowerfulStoryAbigailDogbe.aspx)
@@ -27,6 +26,7 @@
 ### Awards and Recognitions
 - [2025 Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/9c747806-d2b0-40ae-a373-e3428d2260d7)
 - [2025 STEMInfluencer](https://www.instagram.com/p/DKcL2iUO-xC/?img_index=3&igsh=MWt3bnliZHlycmltZg==)
+- [Ghana's 2025 female Tech Trailblazers](https://genderanddigital.org/ghana-female-tech-trailblazers/)
 - [Outstanding Graduate Student of the Year](https://www.thestemmys.com/2024honorees)
 - [Outstanding PyLady of the Year](https://kit.pyladies.com/en/latest/global/award.html)
 - Best Poster Presentation (Runner-Up) - IT Expo, University of Cincinnati.
