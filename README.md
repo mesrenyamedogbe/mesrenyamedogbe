@@ -43,6 +43,12 @@
 <details open>
  <summary><h3> 2025 :sparkles: </h3></summary>
 
+- [Africans at the UN Open Source Week](https://www.youtube.com/live/M4qYPGlmLMI)
+  > [Yigakpoa L. Ikpae (Yiga)](https://www.youtube.com/@MyLifeAsYiga) || Category: Panel || Date: 17th October || Mode: Online
+
+- [Earning Through Open Source: Opportunities and Paths](https://x.com/CodeContribute/status/1977065723857195167)
+  > [Code and Contribute - Hacktoberfest Edition](https://x.com/CodeContribute/status/1974005810758885722) || Category: Talk || Date: 11th October || Mode: Online
+
 - Begin with the end in mind
   > IT Seminar || Category: Alumni Panel || Date: 2nd September  || Mode: In-Person || Location: University of Cincinnati, Cincinnati, Ohio - USA.
 
