@@ -89,10 +89,14 @@
 <details>
  <summary><h3> 2024 :sparkles: </h3></summary>
 
+- [PyLadies Ghana Community Video](https://www.youtube.com/watch?app=desktop&v=x1yiKD96yyE)
+  > PyLadiesCon 2024 || Category: Community Video || Date: 6th - 8th December || Mode: Virtual
+
+- [PyLadies in Open Source - Experiences and stories from PyLadies in Open Source](https://www.youtube.com/watch?v=1IWKkU0WEWY) || Category: Panel Discussion Moderator
+  > PyLadiesCon 2024 || Category: Panel Discussion || Date: 6th - 8th December || Mode: Virtual
+
 - [Empowering Change: Building and Amplifying the PyLadies Community as Black Women in Tech](https://conference.pyladies.com/)
   > PyLadiesCon 2024 || Category: Panel Discussion || Date: 6th - 8th December || Mode: Virtual
-  >> PyLadies in Open Source - Experiences and stories from PyLadies in Open Source || Category: Panel Discussion Moderator 
-  >>> [Community Video](https://www.youtube.com/watch?app=desktop&v=x1yiKD96yyE)
 
 - Begin with the end in mind
   > IT Seminar || Category: Alumni Panel || Date: 3rd December  || Mode: In-Person || Location: University of Cincinnati, Cincinnati, Ohio - USA.
