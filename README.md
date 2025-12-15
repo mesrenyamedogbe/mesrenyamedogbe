@@ -45,6 +45,12 @@
 <details open>
  <summary><h3> 2025 :sparkles: </h3></summary>
 
+- [Inspiring Women in Tech: Lessons from Leading Open Source Initiatives](https://www.youtube.com/live/1Wv_9LVVH5g)
+  > [Open Source Kigali, Rwanda.](https://www.linkedin.com/posts/open-source-kigali_today-is-the-day-join-us-today-at-5-pm-activity-7400413239563403264-Ehox?utm_source=share&utm_medium=member_desktop&rcm=ACoAACamLG4BlcfRMYXn8wgEJmj167nRDXumFgg) || Category: Talk || Date: 29th November || Mode: Online
+
+- [My PyLadies Experience](https://www.linkedin.com/posts/pyladies-tampere_pyladies-meetup-pythoncommunity-activity-7391900789037895681-__BP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACamLG4BlcfRMYXn8wgEJmj167nRDXumFgg)
+  > [PyLadies Tampere, Finland](https://www.linkedin.com/posts/pyladies-tampere_pyladies-meetup-pythoncommunity-activity-7391900789037895681-__BP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACamLG4BlcfRMYXn8wgEJmj167nRDXumFgg) || Category: Panel || Date: 20th November || Mode: Online
+
 - [Africans at the UN Open Source Week](https://www.youtube.com/live/M4qYPGlmLMI)
   > [Yigakpoa L. Ikpae (Yiga)](https://www.youtube.com/@MyLifeAsYiga) || Category: Panel || Date: 17th October || Mode: Online
 
