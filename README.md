@@ -45,6 +45,11 @@
 <details open>
  <summary><h3> 2025 :sparkles: </h3></summary>
 
+ </details>
+
+<details>
+ <summary><h3> 2025 :sparkles: </h3></summary>
+
 - [Inspiring Women in Tech: Lessons from Leading Open Source Initiatives](https://www.youtube.com/live/1Wv_9LVVH5g)
   > [Open Source Kigali, Rwanda.](https://www.linkedin.com/posts/open-source-kigali_today-is-the-day-join-us-today-at-5-pm-activity-7400413239563403264-Ehox?utm_source=share&utm_medium=member_desktop&rcm=ACoAACamLG4BlcfRMYXn8wgEJmj167nRDXumFgg) || Category: Talk || Date: 29th November || Mode: Online
 
