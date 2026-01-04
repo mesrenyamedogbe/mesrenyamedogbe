@@ -43,7 +43,7 @@
 ### Speaking Engagements
 
 <details open>
- <summary><h3> 2025 :sparkles: </h3></summary>
+ <summary><h3> 2026 :sparkles: </h3></summary>
 
  </details>
 
