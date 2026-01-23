@@ -19,7 +19,6 @@
 - [Black Python Devs](https://blackpythondevs.com/2024-05-25-abigail-mesrenyame-dogbe-wins-inaugural-outstanding-pylady-award/)
 - [Remarkable Women Powerful Story - Zonta International](https://www.zonta.org/Web/Web/News_Events/Articles/RemarkableWomenPowerfulStoryAbigailDogbe.aspx)
 - [Celebrating Women in STEM all over the world - 2024 IWD](https://www.youtube.com/watch?v=B6wRDaPfhuE&t=657s)
-- [Cheerleading Girls in STEM — A Mesrenyame Legacy](https://joo-mansa.medium.com/cheerleading-girls-in-stem-a-mesrenyame-legacy-aede236c578f)
 - [DjangoCon US 2023 Keynote Announcement](https://2023.djangocon.us/news/abigail-dogbe/)
 - [PyLadies Mentorship Groups Helps Women Python Developers - Business Insider](https://www.businessinsider.com/pyladies-python-programming-language-software-developers-women-2021-3)
 - [Cheerleading Girls in STEM — A Mesrenyame Legacy](https://joo-mansa.medium.com/cheerleading-girls-in-stem-a-mesrenyame-legacy-aede236c578f)
