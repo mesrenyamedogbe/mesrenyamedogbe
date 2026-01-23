@@ -23,6 +23,7 @@
 - [PyLadies Mentorship Groups Helps Women Python Developers - Business Insider](https://www.businessinsider.com/pyladies-python-programming-language-software-developers-women-2021-3)
 - [Cheerleading Girls in STEM — A Mesrenyame Legacy](https://joo-mansa.medium.com/cheerleading-girls-in-stem-a-mesrenyame-legacy-aede236c578f)
 - [Python Software Foundation Community Service Award](https://pyfound.blogspot.com/2020/07/abigail-dogbe-awarded-psf-community.html)
+- [The Impact of Django Girls Workshops in Ghana](https://blog.djangogirls.org/post/181981832236/the-impact-of-django-girls-workshops-in-ghana)
 
 
 ### Awards and Recognitions
