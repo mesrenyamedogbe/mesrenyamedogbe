@@ -46,6 +46,13 @@
 <details open>
  <summary><h3> 2026 :sparkles: </h3></summary>
 
+ - [Elephant in the Room, Episode 3](https://www.youtube.com/watch?v=dwcPh8CGqz0)
+   >[Aiven](https://www.linkedin.com/posts/aiven_episode-3-of-elephant-in-the-room-is-now-activity-7421925418913595393-haPnutm_source=share&utm_medium=member_desktop&rcm=ACoAACamLG4BlcfRMYXn8wgEJmj167nRDXumFgg) || Category: Collaborative coding session || Date: 22nd January || Mode: Online
+
+- Why you should pursue a career in STEM
+  > Girls in STEM non profit organization || Category: Talk || Date: 22nd January || Mode: Online
+
+
  </details>
 
 <details>
