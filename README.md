@@ -46,7 +46,13 @@
 <details open>
  <summary><h3> 2026 :sparkles: </h3></summary>
 
- - [Elephant in the Room, Episode 3](https://www.youtube.com/watch?v=dwcPh8CGqz0)
+- [Advancing Open Source Security in Africa: Open SSF and OSSAfrica](https://www.linkedin.com/posts/ossafrica_openssf-ossafrica-opensourcesecurity-activity-7438277071723835392-WhAg?utm_source=share&utm_medium=member_desktop&rcm=ACoAACamLG4BlcfRMYXn8wgEJmj167nRDXumFgg)
+  > Open Source & Security Africa (OSSAfrica) || Category: Panel || Date: 27th March || Mode: Online
+
+- [A Practical Introduction to Agentic Coding](https://www.linkedin.com/posts/yan-timanovsky-7725165_acmtechtalk-python-ai-activity-7437198740769357825-4B0E?utm_source=share&utm_medium=member_desktop&rcm=ACoAACamLG4BlcfRMYXn8wgEJmj167nRDXumFgg)
+  > ACM Tech Talk || Category: Moderator || Date: 11th March || Mode: Online
+
+- [Elephant in the Room, Episode 3](https://www.youtube.com/watch?v=dwcPh8CGqz0)
    >[Aiven](https://www.linkedin.com/posts/aiven_episode-3-of-elephant-in-the-room-is-now-activity-7421925418913595393-haPnutm_source=share&utm_medium=member_desktop&rcm=ACoAACamLG4BlcfRMYXn8wgEJmj167nRDXumFgg) || Category: Collaborative coding session || Date: 22nd January || Mode: Online
 
 - Why you should pursue a career in STEM
