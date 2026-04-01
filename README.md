@@ -50,7 +50,7 @@
   > Open Source & Security Africa (OSSAfrica) || Category: Panel || Date: 27th March || Mode: Online
 
 - [Community Engagement Strategies for Open Source Communities](https://ospo.gwu.edu/open-source-conference-gw-oscon)
-  > [George Washington University Open Source Conference](https://ospo.gwu.edu/oscon-2026-details) || Category: Talk || Date: 27th March || Mode: George Washington University, DC, USA.
+  > [George Washington University Open Source Conference](https://ospo.gwu.edu/oscon-2026-details) || Category: Talk || Date: 24th March || Mode: George Washington University, DC, USA.
 
 - [A Practical Introduction to Agentic Coding](https://www.linkedin.com/posts/yan-timanovsky-7725165_acmtechtalk-python-ai-activity-7437198740769357825-4B0E?utm_source=share&utm_medium=member_desktop&rcm=ACoAACamLG4BlcfRMYXn8wgEJmj167nRDXumFgg)
   > ACM Tech Talk || Category: Moderator || Date: 11th March || Mode: Online
