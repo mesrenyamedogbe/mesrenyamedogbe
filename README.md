@@ -10,6 +10,18 @@
 - 💬 Ask me about Tech Community Building and Research in Open Source.
 - ⚡ Fun fact: My name is Golden.
 
+### Open Source Communities I have actively served
+- [Python Software Foundation](https://www.python.org/psf-landing/)
+- [PyLadies Global](https://pyladies.com/)
+- [Django Software Foundation](https://www.djangoproject.com/foundation/)
+- [Django Girls](https://djangogirls.org/en/)
+- [PyLadiesCon](https://conference.pyladies.com/)
+- [PyCon US]
+- [NumFOCUS Diversity & Inclusion in Scientific Computing Unconference]
+- [PyData]
+- [DjangoCon Africa]
+- [PyCon Africa]
+
 ### Media Coverage/Features
 
 - [Announcing the 2025 PSF Board Election Results!](https://pyfound.blogspot.com/2025/09/announcing-2025-psf-board-election.html)
