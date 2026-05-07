@@ -64,7 +64,7 @@
 - [Community Engagement Strategies for Open Source Communities](https://ospo.gwu.edu/open-source-conference-gw-oscon)
   > [George Washington University Open Source Conference](https://ospo.gwu.edu/oscon-2026-details) || Category: Talk || Date: 24th March || Mode: George Washington University, DC, USA.
 
-- [A Practical Introduction to Agentic Coding](https://www.linkedin.com/posts/yan-timanovsky-7725165_acmtechtalk-python-ai-activity-7437198740769357825-4B0E?utm_source=share&utm_medium=member_desktop&rcm=ACoAACamLG4BlcfRMYXn8wgEJmj167nRDXumFgg)
+- [A Practical Introduction to Agentic Coding](https://learning.acm.org/techtalks/agenticcoding)
   > ACM Tech Talk || Category: Moderator || Date: 11th March || Mode: Online
 
 - [Elephant in the Room, Episode 3](https://www.youtube.com/watch?v=dwcPh8CGqz0)
@@ -112,13 +112,13 @@
 - Begin with the end in mind
   > IT Seminar || Category: Alumni Panel || Date: 21st April  || Mode: In-Person || Location: University of Cincinnati, Cincinnati, Ohio - USA.
    
-- [Open-Source Game Development: A Systematic Literature Review](https://cech.uc.edu/soitexpo.html)
+- [Open-Source Game Development: A Systematic Literature Review](https://itexpo.live/2025/research/86)
   > IT Expo || Category: [Poster Presentation](https://www.canva.com/design/DAGet2XA7kM/RrgXojOrQjXozzN4inMdlw/edit?utm_content=DAGet2XA7kM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) || Date: 8th April || Mode: In-Person || Location: University of Cincinnati, Cincinnati, Ohio - USA.
 
-- [The Application of Open-Source Intelligence (OSINT) On Criminal Investigations](https://cech.uc.edu/soitexpo.html)
+- [The Application of Open-Source Intelligence (OSINT) On Criminal Investigations](https://itexpo.live/2025/research/85)
   > IT Expo || Category: Poster Presentation || Date: 8th April || Mode: In-Person || Location: University of Cincinnati, Cincinnati, Ohio - USA.
 
-- [Facilitating Open Source Project Management: A Collaborative Ecosystem of Resources](https://cech.uc.edu/soitexpo.html)
+- [Facilitating Open Source Project Management: A Collaborative Ecosystem of Resources](https://itexpo.live/2025/research/83)
   > IT Expo || Category: Talk || Date: 7th April || Mode: Virtual 
 
 - [Build, Lead and Inspire Pythonista Women](https://www.linkedin.com/posts/pythonghana_pyladiesghana-iwd2025-activity-7311706901623263232-oAel?utm_source=share&utm_medium=member_desktop&rcm=ACoAACamLG4BlcfRMYXn8wgEJmj167nRDXumFgg)
