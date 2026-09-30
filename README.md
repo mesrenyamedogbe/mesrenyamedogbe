@@ -1,14 +1,20 @@
+### Hi there 👋
+- 🔭 I host Everything Open Source Twitter Spaces where I invite professionals to chat about different Open Source topics.
+- 👯 I’m looking to collaborate with Open Source communities and projects on community/programs management.
+- 💬 Ask me about Tech Community Building and Research in Open Source.
+- ⚡ Fun fact: My name is Golden.
+
+### Want to connect?
+[Twitter](https://twitter.com/mesrenyamedogbe) [YouTube](https://www.youtube.com/@mesrenyamedogbe) [LinkedIn](https://www.linkedin.com/in/abigail-mesrenyame-dogbe-83a1a5161/) [Instagram](https://www.instagram.com/MesrenyameDogbe) [Blog](https://mesrenyamedogbe.hashnode.dev/)
+
+
 ### Free Tech Resources
 - [How to make your GitHub profile standout](https://www.udemy.com/join/passwordless-auth/?next=%2Fcourse%2Fmake-your-github-profile-stand-out%2Flearn%2Flecture%2F29205792&action=login&mode#overview)
 - [Microsoft Learn](https://learn.microsoft.com/en-us/)
 - [GitHub Student Developer Pack](https://education.github.com/pack)
 - [How to contribute to Open Source](https://www.youtube.com/watch?v=Qa0ZgJJjJVI)
 
-### Hi there 👋
-- 🔭 I host Everything Open Source Twitter Spaces where I invite professionals to chat about different Open Source topics.
-- 👯 I’m looking to collaborate with Open Source communities and projects on community/programs management.
-- 💬 Ask me about Tech Community Building and Research in Open Source.
-- ⚡ Fun fact: My name is Golden.
+
 
 ### Open Source Communities I have actively served
 - [Python Software Foundation](https://www.python.org/psf-landing/)
@@ -263,16 +269,6 @@
 
 </details>
 
-
-
-### Want to connect?
-[Twitter](https://twitter.com/mesrenyamedogbe)
-
-[YouTube](https://www.youtube.com/@mesrenyamedogbe)
-
-[LinkedIn](https://www.linkedin.com/in/abigail-mesrenyame-dogbe-83a1a5161/)
-
-[Blog](https://mesrenyamedogbe.hashnode.dev/)
 
 
 ### Mesrenyame Dogbe's GitHub Stats
