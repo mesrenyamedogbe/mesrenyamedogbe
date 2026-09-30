@@ -13,6 +13,7 @@
 - [Microsoft Learn](https://learn.microsoft.com/en-us/)
 - [GitHub Student Developer Pack](https://education.github.com/pack)
 - [How to contribute to Open Source](https://www.youtube.com/watch?v=Qa0ZgJJjJVI)
+- [Open Source Bounty Programs](https://mesrenyamedogbe.hashnode.dev/bounties-on-open-source-projects-yes-you-read-it-right) 
 
 
 
