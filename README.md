@@ -46,6 +46,7 @@
 
 
 ### Awards and Recognitions
+- [2026 Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/9c747806-d2b0-40ae-a373-e3428d2260d7)
 - [2025 Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/9c747806-d2b0-40ae-a373-e3428d2260d7)
 - [2025 STEMInfluencer](https://www.instagram.com/p/DKcL2iUO-xC/?img_index=3&igsh=MWt3bnliZHlycmltZg==)
 - [Ghana's 2025 female Tech Trailblazers](https://genderanddigital.org/ghana-female-tech-trailblazers/)
@@ -65,6 +66,15 @@
 <details open>
  <summary><h3> 2026 :sparkles: </h3></summary>
 
+- Information Technology Beyond the Classroom
+  > IT1050 || Category: Panel || Date: 17th November  || Mode: In-Person || Location: University of Cincinnati, Cincinnati, Ohio - USA.
+
+- The Power of Digital Storytelling
+  > Fundamentals of Digital Media || Category: Guest Lecturer || Date: 9th November  || Mode: In-Person || Location: University of Cincinnati, Cincinnati, Ohio - USA.
+
+- [The Future of Python Starts from the Community]
+  > [PyOhio 2026](https://www.pyohio.org/2026/) || Category: Lightning Talk || Date: 25th July || Mode:In-person || Location: Cleveland State University Student Center in Cleveland, OH - USA.
+  
 - [Advancing Open Source Security in Africa: Open SSF and OSSAfrica](https://www.linkedin.com/posts/ossafrica_openssf-ossafrica-opensourcesecurity-activity-7438277071723835392-WhAg?utm_source=share&utm_medium=member_desktop&rcm=ACoAACamLG4BlcfRMYXn8wgEJmj167nRDXumFgg)
   > Open Source & Security Africa (OSSAfrica) || Category: Panel || Date: 27th March || Mode: Online
 
