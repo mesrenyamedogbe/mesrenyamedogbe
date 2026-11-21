@@ -72,7 +72,7 @@
 - The Power of Digital Storytelling
   > Fundamentals of Digital Media || Category: Guest Lecturer || Date: 9th November  || Mode: In-Person || Location: University of Cincinnati, Cincinnati, Ohio - USA.
 
-- [The Future of Python Starts from the Community]
+- The Future of Python Starts from the Community
   > [PyOhio 2026](https://www.pyohio.org/2026/) || Category: Lightning Talk || Date: 25th July || Mode:In-person || Location: Cleveland State University Student Center in Cleveland, OH - USA.
   
 - [Advancing Open Source Security in Africa: Open SSF and OSSAfrica](https://www.linkedin.com/posts/ossafrica_openssf-ossafrica-opensourcesecurity-activity-7438277071723835392-WhAg?utm_source=share&utm_medium=member_desktop&rcm=ACoAACamLG4BlcfRMYXn8wgEJmj167nRDXumFgg)
